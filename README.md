@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vaishakh-v
+- 👀 I’m interested in AI Python
+- 🌱 I’m currently learning ML
