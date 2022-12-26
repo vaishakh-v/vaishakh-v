@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @vaishakh-v
-- 👀 I’m interested in AI Python
+- 👀 I’m interested in AI Python AR CAD
 - 🌱 I’m currently learning ML
